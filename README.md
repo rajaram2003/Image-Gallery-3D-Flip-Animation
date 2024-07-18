@@ -1,4 +1,4 @@
-# 3D-Image-Gallery
+# Image-Gallery-3D-Flip-Animation
 
 Making Simple Image Gallery 3D Flip Animation using HTML and CSS 
 
